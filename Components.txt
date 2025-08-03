@@ -1,0 +1,53 @@
+
+Equipments to Find and Build.......
+
+
+1) Battery (3.7v) 
+mah range (250-1500)
+better the battery better the Backup.
+
+
+2) Motor (base version)
+volatge rating 5v-9v
+Brushed DC motor
+
+
+3) Copper coil (optional)
+diameter 2-2.5mm (approx)
+height (1.5-2cm)
+Thickness around 30-35 AWG
+MOSTLY arounf 80 to 90 turns
+
+
+4) Wire's
+make sure quality of wires must be fine in order to reduce losses
+and make the device efficient 
+
+
+5) Housing
+take it of your choice, for my setup TIC-TAC box do the Job well.
+
+
+
+6) Charging pot
+choose it as per the avaliability and affordability 
+i) Type C
+ii) USB
+iii) Type B
+iv) Micro USB 
+Note- we only need (+(VE),-(VE)) Terminals for these)
+
+
+7) Switch
+try to find any Push switch as it provides more stability to the system 
+with better accuracy and precision 
+
+
+
+
+
+
+
+
+
+

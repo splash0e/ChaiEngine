@@ -19,7 +19,7 @@ DC motor
 
 i) Copper coil (inductor)
 ii) Rechargeable Li-ion battery
-iii) Micro-USB charging port
+iii) Type-C charging port
 iv) Custom wiring & soldering
 
 #Project Goals:
@@ -28,6 +28,7 @@ i) Explore practical use of mini DC motors
 ii) Learn circuit protection using coils
 iii) Build a real-world functional gadget from scrap
 iv) this project is the a short representation of engineering hustle on a micro scale.
+
 
 
 

@@ -1,4 +1,4 @@
-TinyBrew is a compact, battery-powered DIY mixer designed for stirring milk, tea, coffee, or small liquids.
+ChaiEngine is a compact, battery-powered DIY mixer designed for stirring milk, tea, coffee, or small liquids.
  Built using a recycled DC motor, a hand-wound copper coil for noise filtering, and a Tic Tac box as the battery casing, 
 this micro-sized project demonstrates how everyday components can be transformed into a practical tool. With USB charging support 
 and a minimal footprint (smaller than a finger), TinyBrew blends creativity, electronics, and real-world utility in one pocket-sized 
@@ -28,6 +28,7 @@ i) Explore practical use of mini DC motors
 ii) Learn circuit protection using coils
 iii) Build a real-world functional gadget from scrap
 iv) this project is the a short representation of engineering hustle on a micro scale.
+
 
 
 

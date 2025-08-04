@@ -15,12 +15,11 @@ v) DIY-friendly, beginner electronics project
 
 #Built With:
 
-DC motor
-
-i) Copper coil (inductor)
-ii) Rechargeable Li-ion battery
-iii) Type-C charging port
-iv) Custom wiring & soldering
+i) DC motor
+ii) Copper coil (inductor)
+iii) Rechargeable Li-ion battery
+iv) Type-C charging port
+v) Custom wiring & soldering
 
 #Project Goals:
 
@@ -28,6 +27,8 @@ i) Explore practical use of mini DC motors
 ii) Learn circuit protection using coils
 iii) Build a real-world functional gadget from scrap
 iv) this project is the a short representation of engineering hustle on a micro scale.
+v) Affordable Working Project making and Understanding.
+
 
 
 
